@@ -39,16 +39,13 @@ This project focuses on preventing vehicle accidents caused by drowsy or drunk d
   - Triggers an alarm if BAC exceeds the safe limit.
 
 ## Flowchart
-- **Software Flowchart**:
-  - Capture video feed from the camera.
-  - Convert the feed to grayscale.
-  - Detect face and eyes using haar cascades.
-  - Monitor eye-blinking rate and detect drowsiness.
-  - Measure BAC using the MQ3 sensor.
-  - Trigger alarms based on detection results.
+
+![Screenshot (45)](https://github.com/theliwash/Driver-Safety-Enhancement-Using-Eye-Blink-Detection-BAC-and-Proximity-Sensors/assets/163035610/8c651fa7-ce7d-478f-9fa6-ccba345339f4)
 
 ## Circuit Diagram
-- Provide a detailed circuit diagram showing the connections between Raspberry Pi, sensors, and other components.
+
+
+![Screenshot (44)](https://github.com/theliwash/Driver-Safety-Enhancement-Using-Eye-Blink-Detection-BAC-and-Proximity-Sensors/assets/163035610/507493ab-a411-4cba-ae16-f3e122392e36)
 
 ## Results and Analysis
 - **Distance Factor**: Performance varies with the distance between the driver and the camera.
