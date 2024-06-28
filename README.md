@@ -54,7 +54,3 @@ This project focuses on preventing vehicle accidents caused by drowsy or drunk d
 ## Conclusion
 The project successfully demonstrates a method to enhance vehicle safety by detecting driver drowsiness and alcohol influence. The system's effectiveness is influenced by external factors like ambient light and distance but provides a significant step towards reducing vehicular accidents.
 
-## Acknowledgements
-- Special thanks to our project guide Dr. Bhargabjyoti Saikia and Head of the Department Mr. N.H. Singh for their guidance and support.
-- Gratitude to our parents and friends for their inspiration and support.
-
